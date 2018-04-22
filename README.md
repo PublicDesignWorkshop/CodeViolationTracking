@@ -1,8 +1,8 @@
-# ATL RED Housing Code Violation Tracking
+# Code Violation Tracking
 
-ATL RED Housing Code Violation Tracking is a React/NodeJS/Express web application for submitting and processing housing code violations.
+Code Violation Tracking is a React/NodeJS/Express web application for submitting and processing housing code violations.
 
-This app allows users to download our [code violation form]https://github.com/PublicDesignWorkshop/CodeViolationTracking/blob/master/client/public/static/BbB_Form.pdf), which they can use to take note of a housing code violation. Then, users can transcribe the form to a matching web form on our app, which when submitted will process and enter the new code violation data to Google Sheets.
+This app allows users to download our [code violation form](https://github.com/PublicDesignWorkshop/CodeViolationTracking/blob/master/client/public/static/BbB_Form.pdf), which they can use to take note of a housing code violation. Then, users can transcribe the form to a matching web form on our app, which when submitted will process and enter the new code violation data to Google Sheets.
 
 ## Getting Started
 
