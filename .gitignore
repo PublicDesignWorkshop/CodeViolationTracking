@@ -59,9 +59,7 @@ typings/
 *.env
 
 master-creds.json
-master-creds-pierce.json
-master-creds-brendan.json
-.code-workspace
+*.code-workspace
 
 # dependencies
 /node_modules
